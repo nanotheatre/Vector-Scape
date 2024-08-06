@@ -3,8 +3,8 @@ body {
   background-color: #f0f0f0;
   color: #333333;
 }
-h1 {
-  color: #0066cc;
+table {
+  border: 10px solid red;
 }
 </style> -->
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
