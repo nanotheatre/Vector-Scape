@@ -1,9 +1,11 @@
+<style
+  type="text/css">
+h1 {color:red;}
 
-<div>
-  <style>
-table { border: 2px solid black; }
-  
+table {color:blue;}
 </style>
+<div>
+
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
   <tr>
     <td bgcolor="#eee">
