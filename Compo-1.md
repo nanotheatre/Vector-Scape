@@ -1,12 +1,3 @@
-<!-- <style>
-body {
-  background-color: #f0f0f0;
-  color: #333333;
-}
-table {
-  border: 10px solid red;
-}
-</style> -->
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
   <tr>
     <td bgcolor="#eee">
