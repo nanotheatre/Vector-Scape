@@ -1,7 +1,7 @@
 
 <div>
   <style>
-table { border: 2px soloid black; }
+table { border: 2px solid black; }
   
 </style>
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
