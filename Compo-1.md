@@ -1,11 +1,8 @@
-<style
-  type="text/css">
-h1 {color:red;}
 
-table {color:blue;}
-</style>
 <div>
-
+<div align="right">
+  <a href="">→</a>
+</div>
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
   <tr>
     <td bgcolor="#eee">
