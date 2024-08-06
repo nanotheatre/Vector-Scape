@@ -1,3 +1,12 @@
+<!-- <style>
+body {
+  background-color: #f0f0f0;
+  color: #333333;
+}
+h1 {
+  color: #0066cc;
+}
+</style> -->
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
   <tr>
     <td bgcolor="#eee">
