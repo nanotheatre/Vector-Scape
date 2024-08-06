@@ -15,7 +15,5 @@
         <img src="300x/15-08-2020-22-300x.png">
       </a>      
     </td>
-    <td bgcolor="#eee">
-    </td>
   </tr>
 </table>
