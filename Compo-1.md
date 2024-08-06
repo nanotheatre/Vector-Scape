@@ -1,7 +1,8 @@
 
 <div>
-<div align="right">
-  <a href="">→</a>
+<div align="center">
+  <a href="" color="#000">→</a>
+  <br />
 </div>
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
   <tr>
