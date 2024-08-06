@@ -1,3 +1,8 @@
+<style>
+table { border: 2px soloid black; }
+  
+</style>
+<div>
 <table bgcolor="#eee" cellpadding="4" cellspacing="3">
   <tr>
     <td bgcolor="#eee">
@@ -17,3 +22,4 @@
     </td>
   </tr>
 </table>
+</div>
