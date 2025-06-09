@@ -1,4 +1,4 @@
-# VectorSpace / VectorScape
+# Vector Scape / Vector Space
 
 <div align="center">
   <a href="https://github.com/nanotheatre/VectorScapes/blob/main/Polyptych-01.ipynb">
